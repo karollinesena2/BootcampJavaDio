@@ -1,2 +1,2 @@
 # BootcampJavaDio
-Atividades do Bootcamp Java 
+Atividades do Bootcamp Java da DIO. 
